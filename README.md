@@ -1,5 +1,7 @@
 # HardwareArchitectures
-Super computing architectures
+Super computing architectures  
+
+This might be better called "cluster architecture" and represents the "blocks" that hold the cpus and interface to other clusters through the network.
 
 How are CPUs clustered together and how do they communicate?  
 
