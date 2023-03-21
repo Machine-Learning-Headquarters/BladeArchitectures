@@ -1,7 +1,7 @@
-# HardwareArchitectures
-Super computing architectures  
+# BladeArchitectures
+Individual compute boards  
 
-This might be better called "cluster architecture" and represents the "blocks" that hold the cpus and interface to other clusters through the network.
+Represents the "blocks" that hold the cpus and interface to other clusters through the network. Often these are "blades" that slot into a motherboard on an individual wrack of a server.  
 
 How are CPUs clustered together and how do they communicate?  
 
